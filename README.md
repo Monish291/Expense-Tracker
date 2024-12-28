@@ -48,12 +48,12 @@ expense-tracker-app/
 
 ## Screenshots
 ### Input Section and Table
-![image](https://github.com/user-attachments/assets/13df19ee-1e72-40dc-9c19-5208f8095498)
-![image](https://github.com/user-attachments/assets/086efca4-8bf7-44c7-9b1c-83037bcb9ced)
+![image](https://github.com/user-attachments/assets/50c20786-f09a-4553-aaa5-fdcaed669ecf)
 
 
 ### Delete Functionality
-![image](https://github.com/user-attachments/assets/2a902d6c-c469-4396-8e00-45797266eb6f)
+![image](https://github.com/user-attachments/assets/b31c5f79-3e56-4bbd-b341-d824150f2288)
+
 
 
 ## Future Enhancements
