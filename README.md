@@ -32,7 +32,7 @@ expense-tracker-app/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd expense-tracker-app
+   cd Expense-Tracker-app
    ```
 3. Open `index.html` in your browser to view the application.
 
