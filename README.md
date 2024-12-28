@@ -3,18 +3,29 @@ Expense Tracker is a simple and intuitive application designed to help individua
 # Expense Tracker App
 
 ## Overview
-The Expense Tracker App is a web application designed to help users efficiently track their expenses. The app provides a simple interface for adding, viewing, and deleting expenses while calculating the total amount dynamically.
+The Expense Tracker App is a simple web application that allows users to manage their expenses efficiently. Users can add expenses with a category, amount, and date, view the list of expenses, and delete individual entries. The app also calculates the total expense dynamically.
 
 ## Features
-- **Add Expenses:** Select a category, enter an amount, and specify the date of the expense.
-- **View Expenses:** Display all added expenses in a table format with category, amount, and date columns.
-- **Delete Expenses:** Remove individual expense entries.
-- **Total Calculation:** Automatically updates the total expense amount when adding or deleting entries.
+- Add expenses by selecting a category, entering an amount, and specifying a date.
+- View all added expenses in a tabular format.
+- Delete individual expenses from the list.
+- Displays the total amount of all expenses.
 
 ## Technologies Used
-- **HTML**: Structure of the application.
-- **CSS**: Styling for layout and design.
-- **JavaScript**: Functionality and interactivity of the app.
+- **HTML**: For structuring the app’s interface.
+- **CSS**: For styling the app.
+- **JavaScript**: For adding interactivity and dynamic behavior.
+
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/expense-tracker-app.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd expense-tracker-app
+   ```
+3. Open `index.html` in your web browser to view the app.
 
 ## File Structure
 ```
@@ -25,57 +36,33 @@ expense-tracker-app/
 └── README.md        # Project documentation
 ```
 
-## How to Run the App
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-Monish291/Expense-Tracker-app.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Expense-Tracker-app
-   ```
-3. Open `index.html` in your browser to view the application.
-
 ## How to Use
-1. Fill out the input form:
-   - Select a category (e.g., Food & Beverage, Rent, Transport).
-   - Enter a valid amount (positive number).
-   - Choose a date for the expense.
-2. Click **Add** to add the expense to the table.
-3. View all added expenses in the table below the input form.
-4. To remove an expense, click the **Delete** button in the respective row.
-5. The total amount is displayed at the bottom of the table and updates dynamically.
+1. Open the app in your browser.
+2. Fill in the following details in the input section:
+   - Select a **category** (e.g., Food & Beverage, Rent, etc.).
+   - Enter the **amount** (must be a positive number).
+   - Select a **date**.
+3. Click the **Add** button to add the expense to the list.
+4. View the added expense in the table below.
+5. To delete an expense, click the **Delete** button next to the respective entry.
 
-## Code Explanation
+## Screenshots
+### Input Section and Table
+![Input Section and Table](screenshot1.png)
 
-### HTML
-The `index.html` file structures the app with:
-- Input fields for category, amount, and date.
-- A button to add expenses.
-- A table to display the expense list and total amount.
-
-### CSS
-The `style.css` file styles the app:
-- Centered headings and input form.
-- Responsive table layout.
-- Styled buttons for adding and deleting expenses.
-
-### JavaScript
-The `script.js` file adds functionality:
-- Handles adding new expense entries.
-- Dynamically updates the table and total amount.
-- Implements deletion of individual rows and recalculates the total.
+### Delete Functionality
+![Delete Expense](screenshot2.png)
 
 ## Future Enhancements
-- Add filtering options (e.g., by category or date).
-- Enable data persistence with local storage or a database.
-- Introduce advanced analytics, such as category-wise breakdowns.
-- Enhance UI with animations and additional styling.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- Add filtering and sorting options (e.g., by category or date).
+- Implement data persistence using local storage or a backend database.
+- Enhance styling for improved user experience.
+- Add a monthly summary report.
 
 ## Contributions
-Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request to suggest improvements.
+Contributions are welcome! Feel free to open an issue or submit a pull request for improvements or feature additions.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
