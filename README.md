@@ -19,11 +19,11 @@ The Expense Tracker App is a simple web application that allows users to manage 
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker-app.git
+   git clone https://github.com/your-Monish291/Expense-Tracker-app.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd expense-tracker-app
+   cd Expense-Tracker-app
    ```
 3. Open `index.html` in your web browser to view the app.
 
@@ -48,10 +48,13 @@ expense-tracker-app/
 
 ## Screenshots
 ### Input Section and Table
-![Input Section and Table](screenshot1.png)
+![image](https://github.com/user-attachments/assets/13df19ee-1e72-40dc-9c19-5208f8095498)
+![image](https://github.com/user-attachments/assets/086efca4-8bf7-44c7-9b1c-83037bcb9ced)
+
 
 ### Delete Functionality
-![Delete Expense](screenshot2.png)
+![image](https://github.com/user-attachments/assets/2a902d6c-c469-4396-8e00-45797266eb6f)
+
 
 ## Future Enhancements
 - Add filtering and sorting options (e.g., by category or date).
