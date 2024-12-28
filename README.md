@@ -28,7 +28,8 @@ expense-tracker-app/
 ## How to Run the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker-app.git
+   git clone https://github.com/your-Monish291/Expense-Tracker
+-app.git
    ```
 2. Navigate to the project directory:
    ```bash
